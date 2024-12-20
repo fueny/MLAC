@@ -2,7 +2,7 @@
 
 * [欢迎来到机器学习算法积累](README.md)
 
-## 目录 <a href="#catalogs" id="catalogs"></a>
+## 算法详情 <a href="#catalogs" id="catalogs"></a>
 
 * [KNN（K-邻近算法）](catalogs/quickstart.md)
 * [Publish your docs](catalogs/publish-your-docs.md)
