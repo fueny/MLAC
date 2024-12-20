@@ -1,11 +1,11 @@
 # Table of contents
 
-* [欢迎来到机器学习积累](README.md)
+* [欢迎来到机器学习算法积累](README.md)
 
-## Getting Started
+## 目录 <a href="#catalogs" id="catalogs"></a>
 
-* [第一章](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [KNN（K-邻近算法）](catalogs/quickstart.md)
+* [Publish your docs](catalogs/publish-your-docs.md)
 
 ## Basics
 
